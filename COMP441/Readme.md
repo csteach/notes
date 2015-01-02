@@ -1,6 +1,6 @@
-### Readme - Notes - Comp 488
+### Readme - Notes - Comp 441
 
-This is a collection of notes for COMP 488.
+This is a collection of notes for COMP 441.
 
 #### Contents
 * 2015
