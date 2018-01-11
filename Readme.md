@@ -1,6 +1,6 @@
 ### Notes
 
-This repository is a collection of notes and tutorials developed for CS.
+This repository is a collection of notes and tutorials developed for CS, including various copies.
 
 #### Contents
 * 125
