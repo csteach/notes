@@ -6,3 +6,4 @@ A collection of weekly course notes for COMP 441.
   * 2015
   * 2016
   * 2017
+  * 2018
