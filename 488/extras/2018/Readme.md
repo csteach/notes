@@ -1,3 +1,3 @@
-### Notes - 488 - Extras - 2018
+### Notes - Extras
 
-A collection of extra notes for COMP 488.
+This repository is a collection of extra notes and tutorials developed for COMP 488.
