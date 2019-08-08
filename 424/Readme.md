@@ -7,4 +7,4 @@ A collection of weekly course notes for COMP 424.
   * 2016
   * 2017
   * 2018
-	* 2019
+  * 2019
